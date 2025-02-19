@@ -1,0 +1,12 @@
+config/*.json
+!config/example.json
+node_modules/
+dist/
+coverage/
+*.log
+npm-debug.log
+yarn-error.log
+.vscode/
+.idea/
+.DS_Store
+.env

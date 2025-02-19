@@ -1,0 +1,113 @@
+{
+  "users": [
+    {
+      "name": { "first": "Alice", "last": "Brown" },
+      "isBusiness": false,
+      "phone": "050-1234567",
+      "email": "alice.brown@example.com",
+      "password": "Aa!123456",
+      "address": {
+        "country": "USA",
+        "city": "New York",
+        "street": "Broadway",
+        "houseNumber": "10"
+      },
+      "image": { "url": "", "alt": "avatar" }
+    },
+    {
+      "name": { "first": "Michael", "last": "Green" },
+      "isBusiness": true,
+      "phone": "050-2345678",
+      "email": "michael.green@example.com",
+      "password": "Bb@654321",
+      "address": {
+        "country": "UK",
+        "city": "London",
+        "street": "Baker Street",
+        "houseNumber": "221"
+      },
+      "image": { "url": "", "alt": "avatar" }
+    },
+    {
+      "name": { "first": "Sophie", "last": "Davis" },
+      "isBusiness": true,
+      "isAdmin": true,
+      "phone": "050-3456789",
+      "email": "sophie.davis@example.com",
+      "password": "Cc#987654",
+      "address": {
+        "country": "Canada",
+        "city": "Toronto",
+        "street": "Queen Street",
+        "houseNumber": "55"
+      },
+      "image": { "url": "", "alt": "avatar" }
+    }
+  ],
+  "cards": [
+    {
+      "title": "Best Coffee",
+      "subtitle": "Your daily caffeine boost",
+      "description": "We serve the best coffee in town with organic beans.",
+      "phone": "050-1112233",
+      "email": "contact@bestcoffee.com",
+      "web": "https://www.bestcoffee.com",
+      "image": {
+        "url": "",
+        "alt": "Cup of coffee"
+      },
+      "address": {
+        "state": "New York",
+        "country": "USA",
+        "city": "New York",
+        "street": "5th Avenue",
+        "houseNumber": 42,
+        "zip": "10001"
+      },
+      "bizNumber": 3468274
+    },
+    {
+      "title": "Fitness Hub",
+      "subtitle": "Train like a pro",
+      "description": "Join us for the best fitness training and personal coaching.",
+      "phone": "050-2233445",
+      "email": "info@fitnesshub.com",
+      "web": "https://www.fitnesshub.com",
+      "image": {
+        "url": "",
+        "alt": "Dumbbells in gym"
+      },
+      "address": {
+        "state": "California",
+        "country": "USA",
+        "city": "Los Angeles",
+        "street": "Sunset Boulevard",
+        "houseNumber": 88,
+        "zip": "90046"
+      },
+      "bizNumber": 7289153
+    },
+    {
+      "title": "Tech Solutions",
+      "subtitle": "Innovate your business",
+      "description": "We provide cutting-edge tech solutions for startups.",
+      "phone": "050-3344556",
+      "email": "support@techsolutions.com",
+      "web": "https://www.techsolutions.com",
+      "image": {
+        "url": "",
+        "alt": "Technology and business"
+      },
+      "address": {
+        "state": "Ontario",
+        "country": "Canada",
+        "city": "Toronto",
+        "street": "King Street",
+        "houseNumber": 100,
+        "zip": 10001
+
+      },
+      "bizNumber": 5874629
+    }
+  ]
+}
