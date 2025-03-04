@@ -1,0 +1,9 @@
+{
+  "NODE_ENV": "development",
+  "PORT": 8181,
+  "HOST": "http://localhost",
+  "TOKEN_GENERATOR": "jwt",
+  "LOGGER": "morgan",
+  "DB": "MONGODB",
+  "DEBUG_MODE": true
+}
